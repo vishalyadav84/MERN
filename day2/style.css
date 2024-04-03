@@ -1,0 +1,148 @@
+#head{
+    background-color: yellowgreen;
+    text-decoration: underline; 
+    text-transform: uppercase;
+    font-size: larger;
+    text-decoration-color: beige;
+    text-align: center;
+}
+
+.parent {
+    color: aquamarine;
+    background-color: yellowgreen;
+    padding: 16px;
+    margin: 16px;
+    border: 2px solid red;
+    box-sizing: content-box;
+    font-size: 32px;
+}
+
+                /* --Example-- */
+                /*
+                h1 {
+                    font-size: 2.5em; /* 40px/16=2.5em 
+                  }
+                  
+                  h2 {
+                    font-size: 1.875em; /* 30px/16=1.875em 
+                  }
+                  
+                  p {
+                    font-size: 0.875em; /* 14px/16=0.875em 
+                  } 
+                  */
+                  
+                  
+
+.child{
+    font-size: 16px;
+}
+
+p{
+    background-color: brown;
+}
+
+.parent p{
+    background-color: blueviolet;
+}
+
+.parent1 {
+    color: aquamarine;
+    background-color: yellowgreen;
+    padding: 0;
+    margin: 0;
+    border: 2px solid red;
+    box-sizing: border-box;
+
+}
+
+.parent2{
+    background-color: cadetblue;
+    height: 200px;
+    width: 500px;
+    overflow: scroll;
+}
+
+.heading{
+    color: aquamarine;
+    background-color: yellowgreen;
+    padding: 16px;
+    margin: 16px;
+    border: 2px solid red;
+
+}
+
+#heading{
+    color: aquamarine;
+    background-color: yellowgreen;
+    padding: 6px;
+    margin: 16px;
+    border: 2px solid red;
+}
+img{
+    display: block;
+    height: 40%;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-color: darkgray;
+}
+
+.btn{
+    display: block;
+    padding: 32px;
+    border-radius: 15px;
+    border: none;
+    margin: 0 auto;
+    font-size: 16px;
+    width: 320px;
+}
+
+.btn-s{
+    display: block;
+    padding: 32px;
+    border-radius: 15px;
+    border: none;
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+.btn-b{
+    display: block;
+    padding: 32px;
+    border-radius: 15px;
+    border: none;
+    margin: 0 auto;
+    font-size: 16px;
+    color: black;
+    background-color: blueviolet;
+}
+
+.parent3{
+    padding: 16px;
+    background-color: aqua;
+
+    ol{
+        background-color: blue;
+    }
+
+    ul:first-child{
+        background-color: coral;
+    }
+
+    ul:nth-child(3){
+        li:nth-child(2){
+            background-color: aliceblue;
+        }
+        li:nth-of-type(4){
+            background-color: goldenrod;
+        }
+        background-color: cadetblue;
+    }
+
+    ul:last-child{
+        background-color: coral;
+    }
+}
