@@ -1,0 +1,55 @@
+cl("stsrt")
+setTime()
+cl("end)
+
+________________________________
+|                               |
+|                               |
+|                               |
+|_______________________________|
+
+
+
+|             |
+|             |
+|             |
+|             |
+|             |
+|             |
+|             |
+|             |             
+|             |                 
+|_____________|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+latency,throughput ,bondwith
+response time, processing time
+DNS,HTTP vs HTTPS
