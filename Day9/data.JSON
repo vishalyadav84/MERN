@@ -1,0 +1,8 @@
+[
+  { "tital": "Asus Vivobook", "price": 90000, "id": 1 },
+  { "tital": "HP", "price": 60000, "id": 2 },
+  { "tital": "Macbook", "price": 85000, "id": 4 },
+  { "tital": "iPhone", "price": 75000, "id": 5 },
+  { "tital": "Asus TUF", "price": 80000, "id": 6 },
+  { "title": "vivo", "Price": 12000, "id": 8 }
+]
